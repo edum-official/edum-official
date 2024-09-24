@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## EDUM 
-![EDUM Header](header.jpg)
+![EDUM Header](header.png)
 
 ## The "EDUM Project" (hereinafter referred to as Edum) is to create an educational ecosystem where participants can receive tangible rewards, ensuring that financial constraints do not force them to abandon their dreams. This ecosystem enables the participants to access high-quality educational services at reasonable costs and supports various scholarship programs to help individuals continue to pursue their aspirations.
 ### Through the innovative [reward, certification, intellectual property] systems in the education field, the Edum educational ecosystem empowers all participants, including learners, instructors, and service providers, to attain tangible economic value.
@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 * [MEDIUM] https://medium.com/@edum_official
 * [TWITTER] https://x.com/EDUMOfficial
 
-![EDUM footer](bottom.jpg)
+![EDUM footer](bottom.png)
