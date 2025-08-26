@@ -34,4 +34,30 @@ Here are some ideas to get you started:
 * [MEDIUM] https://medium.com/@edum_official
 * [TWITTER] https://x.com/EDUMOfficial
 
+## 📊 Team Activity Overview
+
+> Updated daily (Asia/Seoul timezone)
+
+![EDUM Metrics](https://github.com/edum-official/edum-official/blob/master/github-metrics.svg)
+
+---
+
+## 🛠 Powered By
+
+- GitHub Actions
+- [lowlighter/metrics](https://github.com/lowlighter/metrics)
+- Automated activity tracking
+- Fully customizable visualization options
+
+---
+
+## 📘 Useful Links
+
+- [EDUM on GitHub](https://github.com/edum-official)
+- [GitHub Metrics Documentation](https://github.com/lowlighter/metrics)
+
+---
+
+> For questions, feedback, or collaboration inquiries, feel free to reach out to any member of the EDUM.
+
 ![EDUM footer](bottom.png)
